@@ -1,15 +1,15 @@
 # Ambiente Virtual Educacional
 
-## Introdução ✓
+## Introdução
 Este projeto tem como objetivo criar um ambiente virtual para fins educacionais, que possibilite a execução de softwares como MySQL, Node.js e Python. A atividade integra conceitos de Sistemas Operacionais, Redes de Computadores, Levantamento de Requisitos e Lógica de Programação. Nele, você pesquisará componentes para a montagem de um computador com custo máximo de R$5.000,00, e será configurado uma máquina virtual e instalado uma distribuição Linux gratuita, escolhida com base na compatibilidade e facilidade de uso.
 
-## Levantamento de Requisitos ✓
+## Levantamento de Requisitos
 
 - Requisitos Funcionais: O computador construído comporta facilmente os softwares (MySQL, Node.js e Python) requisitados para o uso educacional (banco de dados, desenvolvimento web e programação). Além de ser estável para o desenvolvimento e testes.
 
 - Requisitos Não-Funcionais: O computador físico está dentro do limite de R$5.000,00 proposto, com o financeiro usado eficientemente, além de comportar e rodar as tarefas requisitadas.
 
-### Requisitos para o Computador Físico ✓
+### Requisitos para o Computador Físico
 - ~Processador (*CPU*)~ ✓
 - ~Memória RAM~ ✓
 - ~Armazenamento~ ✓
@@ -21,7 +21,7 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - ~Outros (placa de vídeo, cooler do processador)~ ✓
 - **Orçamento Máximo:** ~R$ 5.000,00~ ✓
 
-## Orçamento ✓
+## Orçamento
 
 **Geral**: [PC Completo](https://meupc.net/build/bb3rq9)
 
@@ -56,7 +56,7 @@ Total no cartão: **R$4.873,55**
 
 Total no boleto **R$4.249,62**
 
-## Escolha do Sistema Operacional ✓
+## Escolha do Sistema Operacional
 
 ### Ubuntu
 Utilizaremos o sistema operacional Linux, com sua distribuição alternativa Ubuntu devido a suas qualidades. Este sistema operacional fornece uma comunidade muito acolhedora, que possui fóruns e tutoriais para soluções de problemas, permitindo que o uso educacional seja mais efetivo para o desenvolvimento das habilidades dos alunos.
@@ -184,4 +184,8 @@ Pronto! Sua Rede está configurada!
   - `python3 --version`
     ![image](https://github.com/user-attachments/assets/85655209-684e-4120-9526-a3c2d2e0f1da)
 
-##Considerações Finais
+## Considerações Finais
+
+Com os passos a passos escritos pelo professor e as pesquisas feitos por meio do computador, conseguimos concluir o objetivo, orçamentar um computador físico que fosse possível instalar e desenvolver um ambiente virtual para fins educacionais que possibilitava a execução de softwares, além de documentar por meio de fotos, escritos e *links*, no GitHub e Word.
+
+Aprendemos diversos meios eficientes de Sistemas Operacionais, Redes de Computadores, Levantamento de Requisitos e Lógica de Programação, envolvendo pesquisa, orçamento e documentação.
